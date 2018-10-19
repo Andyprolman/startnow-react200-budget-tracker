@@ -1,4 +1,4 @@
-import { creatStore } from 'redux';
+import { createStore } from 'redux';
  function tempReducer () {
      return null;
  }
